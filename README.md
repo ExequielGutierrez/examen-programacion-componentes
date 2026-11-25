@@ -1,8 +1,8 @@
-# Examen — Programación de Componentes
+# Examen Programación de Componentes
 
 Autor: Exequiel Gutierrez
 
-Aplicación del examen PROC0923. Cada ejercicio tiene su propia pantalla y se evalúa por separado. La interfaz usa Bootstrap.
+Cada ejercicio tiene su propia pantalla y se evalúa por separado. La interfaz usa Bootstrap.
 
 ## Enlaces
 
