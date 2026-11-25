@@ -7,7 +7,7 @@ Cada ejercicio tiene su propia pantalla y se evalúa por separado. La interfaz u
 ## Enlaces
 
 - Repositorio: https://github.com/ExequielGutierrez/examen-programacion-componentes
-- Sitio: https://examen-proc0923-exequiel.web.app
+- Sitio: https://examen-componentes-exequiel.web.app
 
 El enunciado pide el link de GitHub. El sitio está en Firebase Hosting, el mismo tipo de despliegue de la unidad, en un proyecto distinto al taller 2.
 
@@ -48,7 +48,7 @@ npm install
 npm run dev
 ```
 
-Proyecto Firebase: `examen-proc0923-exequiel`.
+Proyecto Firebase: `examen-componentes-exequiel`.
 
 Authentication con correo y clave y Firebase Storage ya están habilitados. Los archivos se guardan en `archivos/{uid}/`. Firestore y Hosting funcionan en el mismo proyecto.
 
